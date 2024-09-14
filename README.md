@@ -1,10 +1,10 @@
-Olá! Eu sou o Bruno Henrique Ignaszevski, estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento de software. Com 24 anos de idade, estou em busca de oportunidades na área de desenvolvimento de software, onde posso aplicar e expandir minhas habilidades.
+Hello! I'm Bruno Henrique Ignaszevski, a Software Engineering student passionate about technology and software development. At 24 years old, I am looking for opportunities in the software development area, where I can apply and expand my skills.
 
-Atualmente, estou focado em aprimorar meus conhecimentos em várias áreas, incluindo web development e data science. Estou sempre em busca de aprender e explorar novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
+Currently, I am focused on improving my knowledge in several areas, including web development and data science. I'm always looking to learn and explore new technologies to improve my skills as a developer.
 
-No meu GitHub, você encontrará projetos onde aplico meu aprendizado e experiência. Estou ansioso para colaborar em projetos interessantes e contribuir para a comunidade de desenvolvedores.
+On my GitHub, you will find projects where I apply my learning and experience. I look forward to collaborating on interesting projects and contributing to the developer community.
 
-Habilidades:
+Skills:
  - HTML5
  - CSS3
  - JavaScript
